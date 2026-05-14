@@ -3,3 +3,5 @@ Kjønn i balanse? En utforskende kvantitativ analyse av kjønn og involvering i 
 
 Vedlagt finnes hovedkodene for masteroppgaven, samt anonymiserte endelig datasett for fixed effekts-analysen.
 Ettersom data er anonymisert etter avtale med SIKT er det noen kolonner som mangler og/eller er oppdatert med ID. Det vil derfor være vanskelig å kunne kjøre kodene alene uten tilgang på protokollene, men det er mulig å tilpasse disse til egen bruk om det skal være ønskelig å gjenskape.
+
+For å opprettholde krav fra SIKT om anonymisering er den opplastede koden oppdatert med 'PLACEHOLDER' alle steder hvor det kan være identifiserbare mapper/filnavn/eller lignende.
