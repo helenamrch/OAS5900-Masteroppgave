@@ -1,0 +1,5 @@
+# OAS5900 Masteroppgave
+Kjønn i balanse? En utforskende kvantitativ analyse av kjønn og involvering i norske ungdomsråd
+
+Vedlagt finnes hovedkodene for masteroppgaven, samt anonymiserte endelig datasett for fixed effekts-analysen.
+Ettersom data er anonymisert etter avtale med SIKT er det noen kolonner som mangler og/eller er oppdatert med ID. Det vil derfor være vanskelig å kunne kjøre kodene alene uten tilgang på protokollene, men det er mulig å tilpasse disse til egen bruk om det skal være ønskelig å gjenskape.
